@@ -1,0 +1,37 @@
+header{
+  background-color: green;
+  padding: 15px;
+  font-style: italic;
+  display: block;
+  align-items: center;
+}
+body{
+  background-color: brown;
+  font-style: oblique;
+  background: url("http://stayrainier.com/rainier/wp-content/uploads/2016/06/10trail.jpg") fixed;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+li{
+  text
+  text-align: center;
+  list-style-type: none;
+}
+article{
+  text-align: center;
+}
+img{
+  list-style-type: none;
+  height: 24em;
+  width: 20em;
+}
+footer{
+  color: purple;
+}
